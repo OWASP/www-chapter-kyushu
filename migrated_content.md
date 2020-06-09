@@ -35,11 +35,6 @@ Agreement:日本語訳をご一読下さい](Speaker_Agreement:日本語訳 "wik
 
 のご支援を受けています。ありがとうございます。
 
-ローカルチャプターのスポンサーは![Btn_donate_SM.gif](Btn_donate_SM.gif
-"Btn_donate_SM.gif") からお申込みになれます。
-個人、コーポレート、アカデミックメンバーとしてご登録をご希望の方は![Join_Now_BlueIcon.JPG](Join_Now_BlueIcon.JPG
-"Join_Now_BlueIcon.JPG")をクリックして下さい。
-
 ## Local News
 
 # News
