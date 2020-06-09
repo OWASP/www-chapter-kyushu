@@ -25,14 +25,13 @@ OWASP Kyushu では、定期的にChapter Meetingなどの勉強会を開催し�
 (スピーカーの方は[Speaker
 Agreement:日本語訳をご一読下さい](Speaker_Agreement:日本語訳 "wikilink"))
 
-![<File:Owasp_kyushu_logo.png>](Owasp_kyushu_logo.png
-"File:Owasp_kyushu_logo.png")
+![owasp_kyushu.png](/assets/images/owasp_kyushu.png)
 
 ## スポンサー
 
   - ゴールドチャプタースポンサー
 
-![sstlogo.png](sstlogo.png "sstlogo.png")
+![sst_a.png](/assets/images/sst_a.png)
 
 のご支援を受けています。ありがとうございます。
 
