@@ -2,14 +2,33 @@
 
 layout: col-sidebar
 title: OWASP Kyushu
-tags: example-tag
+tags: kyushu-tag
 level: 0
 
 region: Asia/Pacific
 
-auto-migrated: 1
-
 ---
+# OWASP Kyushuへようこそ
+---
+# 次回のミーティング
+
+開催が決まり次第、告知します。
+
+# OWASP Kyushuとは
+アメリカメリーランド州を本部とするWebアプリケーションセキュリティに関する情報や文書、知識の共有、普及を目的としたオープンで非営利のオープンソース・ソフトウェアコミュニティであるOWASP Foundationの ***九州支部*** です。
+<br>
+OWASP Kyushu では、定期的にChapter Meetingなどの勉強会を開催していきます。
+みなさんのご参加をお待ちしています。
+イベント開催等の情報はメーリングリストやSNSにて配信しております。
+
+  * [Facebook](https://www.facebook.com/owaspkyushu)
+  * [Twitter](https://twitter.com/owaspKyushu)
+  * [connpass](http://owasp-kyushu.connpass.com/)
+
+# スピーカーとして参加をご希望の方へ
+
+OWASP Sendaiミーティングに、スピーカーとして参加をご希望の方は、 [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement)をご覧いただき、チャプターリーダーにプレゼンテーションしたいトピックをお知らせ下さい。
+<br>
 
 
 <!-- Standard Chapter Page Template
