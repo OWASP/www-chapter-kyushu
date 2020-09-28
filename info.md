@@ -1,6 +1,3 @@
-<!--### Chapter Information
-* Chapter Region
-
-### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+  * [Facebook](https://www.facebook.com/owaspkyushu)
+  * [Twitter](https://twitter.com/owaspKyushu)
+  * [connpass](http://owasp-kyushu.connpass.com/)
