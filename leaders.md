@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Yuichi Higashi](mailto:yuichi.higashi@owasp.org)
+* [Yuichi Hattori](mailto:yuichi.hattori@owasp.org)
