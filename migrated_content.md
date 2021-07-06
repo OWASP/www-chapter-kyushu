@@ -25,21 +25,15 @@ OWASP Kyushu では、定期的にChapter Meetingなどの勉強会を開催し�
 (スピーカーの方は[Speaker
 Agreement:日本語訳をご一読下さい](Speaker_Agreement:日本語訳 "wikilink"))
 
-![<File:Owasp_kyushu_logo.png>](Owasp_kyushu_logo.png
-"File:Owasp_kyushu_logo.png")
+![owasp_kyushu.png](/assets/images/owasp_kyushu.png)
 
 ## スポンサー
 
   - ゴールドチャプタースポンサー
 
-![sstlogo.png](sstlogo.png "sstlogo.png")
+![sst_a.png](/assets/images/sst_a.png)
 
 のご支援を受けています。ありがとうございます。
-
-ローカルチャプターのスポンサーは![Btn_donate_SM.gif](Btn_donate_SM.gif
-"Btn_donate_SM.gif") からお申込みになれます。
-個人、コーポレート、アカデミックメンバーとしてご登録をご希望の方は![Join_Now_BlueIcon.JPG](Join_Now_BlueIcon.JPG
-"Join_Now_BlueIcon.JPG")をクリックして下さい。
 
 ## Local News
 
@@ -61,17 +55,20 @@ OWASP Kyushu Local Chapter Meeting 13th は6/13
 
 OWASP Kyushu Local Chapter Meeting 12th は12/27 19:00\~小倉駅前のcafe
 causaにて開催しました。
+
 詳細は[こちら](https://owasp-kyushu.connpass.com/event/111653/)
 
 ### Kyushu Security Conference 2018
 
 福岡で開催されるKyushu Security Conference 2018に協力しています。
+
 詳細は[こちら](https://kyusec.student-kyushu.org/)
 
 ### OWASP Kyushu Local Chapter Meeting 11th
 
 OWASP Kyushu Local Chapter Meeting 11th は5/25
 19:00\~さくらインターネット福岡オフィスにて開催しました。
+
 詳細は[こちら](https://owasp-kyushu.connpass.com/event/87616/)
 
 ### Attack & Defense in Sendai \#4
@@ -95,6 +92,7 @@ Attack & Defense in Fukuoka \#2 は3/3 13:00\~富士通株式会社 九州支社
 
 OWASP Kyushu Local Chapter Meeting 10th は12/26 19:00\~富士通株式会社
 九州支社にて開催しました。
+
 詳細は[こちら](https://owasp-kyushu.connpass.com/event/74411/)
 
 ### Attack & Defense in Sendai \#2
@@ -111,6 +109,7 @@ OWASP Kyushu Local Chapter Meeting 10th は12/26 19:00\~富士通株式会社
 
 OWASP Kyushu Local Chapter Meeting 9th は5/31
 19:00\~博多駅前のBASESにて開催しました。
+
 詳細は[こちら](https://owasp-kyushu.connpass.com/event/56763/)
 
 ### OWASP Kyushu Local Chapter Meeting 8th in Kumamoto
@@ -131,6 +130,7 @@ OWASP Kyushu Local Chapter Meeting 7thを12月14日(水)に開催しました。
 OWASP Kyushu Local Chapter Meeting 6thを10/1(土)を開催しました。
 
 なお、6thからconnpassに移行しています。
+
 詳細は[こちら](http://owasp-kyushu.connpass.com/event/41144/)
 
 ### OWASP Kyushu Local Chapter Meeting 5th
@@ -142,6 +142,7 @@ OWASP Kyushu Local Chapter Meeting 5thは6月18日（土）に開催しました
 ### OWASP DAY 2016 Spring
 
 初の3チャプター同時開催となるOWASP DAY 2016 Springを2/27(土)に開催しました。
+
 福岡会場の詳細は[こちら](https://owasp-kyushu.doorkeeper.jp/events/39052)
 
 ### OWASP Kyushu Local Chapter Meeting 4th
